@@ -8,6 +8,7 @@ The easiest way to get any of them is the website: **[matanestudios.com/apps](ht
 
 | App | What it does | Platforms | Get it |
 | --- | --- | --- | --- |
+| **Flash Card Fold** | Free flash cards with pictures and real voices. Make a deck by hand, from a list or spreadsheet, or with any AI. | Android | [matanestudios.com/apps/flipwise](https://matanestudios.com/apps/flipwise) |
 | **Peek QR** | A little see-through window that reads QR codes and text from your screen, your camera, or a picture. | Windows | [matanestudios.com/apps/peek-qr](https://matanestudios.com/apps/peek-qr) (coming soon) |
 
 More free apps are on the way.

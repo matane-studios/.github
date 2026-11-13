@@ -1,0 +1,3 @@
+# Shows the Sponsor button on every Matane Studios repository that has no FUNDING.yml of its own.
+# The link is the studio's donate page (Stripe pay-what-you-want).
+custom: ["https://matanestudios.com/donate"]
